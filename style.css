@@ -41,3 +41,15 @@ gap: 5rem;}
 
 
 #user-score,#comp-score{font-size: 4rem;}
+
+
+.msg-container{margin-top: 4rem;}
+
+
+#msg{background-color:burlywood;
+color: black;
+font-size: 2rem;
+margin-top: 5rem;
+display: inline;
+padding: 1rem;
+border-radius: 1rem;}
